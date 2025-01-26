@@ -1,3 +1,9 @@
+# Project
+venv/*
+.env
+test.session
+test.session-journal
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
